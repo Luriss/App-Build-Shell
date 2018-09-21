@@ -10,7 +10,7 @@ cd ..
 cd $projectPath
 
 ###############设置需编译的项目配置名称
-#选择编译的方式,有Release,Debug，自定义的AdHoc等
+#选择编译的方式,Release or Debug
 echo "\n********************** 请选择你需要编译的版本 **********************\n"
 echo "编译 Release 版本输入 'r', 编译 Debug 版本输入 'd'"
 
